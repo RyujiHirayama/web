@@ -74,6 +74,13 @@ div.navi-space {
 	margin-top:5px;
 }
 
+.container.content b.projectpage {
+	font-size:1.25em;
+	text-decoration: none;
+	font-weight: bold;
+	color:rgb(128,128,128);
+}
+
 .container.content a.projectpage {
 	font-size:1.25em;
 	text-decoration: none;
